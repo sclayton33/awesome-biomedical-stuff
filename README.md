@@ -8,6 +8,10 @@ Each item will denote whether it is ![](https://img.shields.io/badge/-Free-green
 
 
 # Literature Research
+  - [ResearchRabbit](https://www.researchrabbit.ai/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-red)
+    - The website states it is "Free forever for researchers". Its purpose is to show you additional and related papers based on what you're currently reading. It provides the option for taking notes on papers, interactive visualization of all papers in your current collection, collaboration and more. Excellent tool for speeding up literature searches.
+  - [Zotero](https://www.zotero.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
+    - Zotero stores collections of papers. It can integrate with [ResearchRabbit](https://www.researchrabbit.ai/). 
 
 
 # Data Analytics

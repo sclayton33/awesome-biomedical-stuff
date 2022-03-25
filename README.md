@@ -11,7 +11,7 @@ Acronyms:
   - [Benchling](https://benchling.com) ![](https://img.shields.io/badge/-Free%20%26%20Paid-orange) ![](https://img.shields.io/badge/-Proprietary-blue)
     - A highly featured ELN that is free for academics. Includes good tools for interacting with sequencing data. Can easily add plate layouts, tables, reference protocols within notes. Includes more advanced paid features such as LIMS and automation integration with hardware.
   - [SciNote](https://www.scinote.net/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
-    - Has free trial but is ultimately paid. Have to contact them to setup trial. Has LIMS, protocol management, API, and offers training to new users. 
+    - Has free trial but is ultimately paid. Have to contact them to setup trial. Has LIMS, protocol management, API, and offers training to new users. You can view the overview PDF [here](https://github.com/Optimizer-Prime/awesome-biomedical-stuff/blob/main/resources/SciNote%20ELN%20Functionalities%20Overview_2021.pdf) to save you from having to give your info yet.
   - [Labfolder](https://www.labfolder.com/) 
 
 

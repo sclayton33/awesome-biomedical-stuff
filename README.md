@@ -23,7 +23,6 @@ Acronyms:
     - Zotero stores collections of papers. It can integrate with [ResearchRabbit](https://www.researchrabbit.ai/). 
 
 
-# Data Analytics
-
-
-# Data Visualization
+# Data Analytics & Visualization
+  - [LabPlot](https://labplot.kde.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
+    - LabPlot is a free, open source and cross-platform Data Visualization and Analysis software accessible to everyone. It can produce a wide variety of plots from spreadsheets or other imported data.

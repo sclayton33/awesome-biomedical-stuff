@@ -3,7 +3,7 @@ Collection of resources, mainly software, to help make biomedical research easie
 Each item will denote whether it is ![](https://img.shields.io/badge/-Free-green), ![](https://img.shields.io/badge/-Paid-blue), or ![](https://img.shields.io/badge/-Free%20%26%20Paid-orange). Each item will denote whether the software is ![](https://img.shields.io/badge/-FOSS-green) (Free and Open Source Software) or ![](https://img.shields.io/badge/-Proprietary-blue).
 
 Acronyms:
-- LIMS = Laboratory Inventory Management Software
+- LIMS = Laboratory Information Management System
 - API = Application Programming Interface
 
 

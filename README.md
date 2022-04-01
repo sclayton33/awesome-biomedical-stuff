@@ -26,3 +26,5 @@ Acronyms:
 # Data Analytics & Visualization
   - [LabPlot](https://labplot.kde.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
     - LabPlot is a free, open source and cross-platform Data Visualization and Analysis software accessible to everyone. It can produce a wide variety of plots from spreadsheets or other imported data.
+  - [BioRender](https://biorender.com/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
+    - Provides thousands of pre-made icons for creating figures to represent almost any kind of biological situation. It is only free for educational use, but paid if you want to use in a publication. 

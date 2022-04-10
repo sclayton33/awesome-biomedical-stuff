@@ -15,7 +15,7 @@ Acronyms:
   - [Labfolder](https://www.labfolder.com/) ![](https://img.shields.io/badge/-Free%20%26%20Paid-orange) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Free academic tier, paid version has more features and a lot more storage.
   - [Labware](https://www.labware.com/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
-    - Provides suite of tools focused on automating lab workflows. Seems to be more focused on industry than academia. Pricing note readily available.
+    - Provides suite of tools focused on automating lab workflows. Seems to be more focused on industry than academia. Pricing not readily available.
 
 # Literature Research
   - [ResearchRabbit](https://www.researchrabbit.ai/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)

@@ -17,7 +17,7 @@ Acronyms:
   - [Labware](https://www.labware.com/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Provides suite of tools focused on automating lab workflows. Seems to be more focused on industry than academia. Pricing not readily available.
   - [Labguru](https://www.labguru.com/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
-    - Offers LIMS, lab notes, strong privacy protections, available anywhere, large lab support. 
+    - Offers LIMS, lab notes, strong privacy protections, available anywhere, large lab support. Have to contact them to try out.
 
 # Literature Research
   - [ResearchRabbit](https://www.researchrabbit.ai/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)

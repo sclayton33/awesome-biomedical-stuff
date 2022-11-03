@@ -1,6 +1,8 @@
 # Notes on contributing
 Please only link to relevant resources. 
 
+You will need to fork this repository to your own github to edit and create a pull request once edited. You should be able to merge on your own, but if not I will merge it.
+
 # Format for new entries
 
 Please follow the template below to add a new resource to the list.

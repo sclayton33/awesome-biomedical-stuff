@@ -26,6 +26,10 @@ Acronyms:
     - Zotero stores collections of papers and can retrieve most of them. It can integrate with [ResearchRabbit](https://www.researchrabbit.ai/). 
   - [Dimensions.ai](https://app.dimensions.ai/) ![](https://img.shields.io/badge/-Free%20%26%20Paid-orange) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Indexes over 100 million papers. Provides citation metrics, impact factors, associated authors, and more. Free to use for non-commercial purposes. 
+  - [Semantic Scholar](https://www.semanticscholar.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)
+    - An AI powered search engine indexing over 200 million papers. The key feature is that it provides an AI-generated TL:DR (too long:didn't read) summary for each article, longer than the title but more concise than the abstract.
+  - [Elicit](https://elicit.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)
+    - Requires sign-up. Deems itself the "AI research assistant". Aims to help automate parts of literature searching. Claims to provide summaries and extract key information. Also can help with brainstorming.
 
 
 # Data Analytics & Visualization

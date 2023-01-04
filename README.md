@@ -5,6 +5,7 @@ Each item will denote whether it is ![](https://img.shields.io/badge/-Free-green
 Acronyms:
 - LIMS = Laboratory Information Management System
 - API = Application Programming Interface
+- TL:DR = Too Long: Didn't Read
 
 
 # Electronic Lab Notebooks (ELN)
@@ -19,7 +20,7 @@ Acronyms:
   - [Labguru](https://www.labguru.com/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Offers LIMS, lab notes, strong privacy protections, available anywhere, large lab support. Have to contact them to try out.
 
-# Literature Research
+# Literature Research & Citation Managers
   - [ResearchRabbit](https://www.researchrabbit.ai/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)
     - The website states it is "Free forever for researchers". Its purpose is to show you additional and related papers based on what you're currently reading. It provides the option for taking notes on papers, interactive visualization of all papers in your current collection, collaboration and more. Excellent tool for speeding up literature searches.
   - [Zotero](https://www.zotero.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
@@ -30,10 +31,19 @@ Acronyms:
     - An AI powered search engine indexing over 200 million papers. The key feature is that it provides an AI-generated TL:DR (too long:didn't read) summary for each article, longer than the title but more concise than the abstract.
   - [Elicit](https://elicit.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Requires sign-up. Deems itself the "AI research assistant". Aims to help automate parts of literature searching. Claims to provide summaries and extract key information. Also can help with brainstorming.
-
+    
+# Experimental Design & Reproducibility
+  - [Protocols.io](https://www.protocols.io) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)
+    - For academia, free plan has unlimited public protocols and limited private protocols. You receive a DOI for published articles. Clean interface and easy to use. Has a forking feature to modify an existing protocol and collaboration features. 
+  - [Reproducibility4Everyone](https://www.repro4everyone.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
+    - Collection of resources on different research topics (e.g., protocol sharing, data management, ELNs, bioinformatics) aimed at teaching reproducibile methods for each. 
+  - [NC3Rs Experimental Design Assistant](https://eda.nc3rs.org.uk/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
+    - A web tool designed to help you create reproducible and reliable study designs. 
 
 # Data Analytics & Visualization
   - [LabPlot](https://labplot.kde.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
     - LabPlot is a free, open source and cross-platform Data Visualization and Analysis software accessible to everyone. It can produce a wide variety of plots from spreadsheets or other imported data.
   - [BioRender](https://biorender.com/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Provides thousands of pre-made icons for creating figures to represent almost any kind of biological situation. It is only free for educational use, but paid if you want to use in a publication. 
+    
+# Non-Traditional Funding Sources

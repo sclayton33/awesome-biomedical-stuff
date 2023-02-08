@@ -19,18 +19,22 @@ Acronyms:
     - Provides suite of tools focused on automating lab workflows. Seems to be more focused on industry than academia. Pricing not readily available.
   - [Labguru](https://www.labguru.com/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Offers LIMS, lab notes, strong privacy protections, available anywhere, large lab support. Have to contact them to try out.
+  - [Labstep](https://www.labstep.com/) ![](https://img.shields.io/badge/-Free%20%26%20Paid-orange) ![](https://img.shields.io/badge/-Proprietary-blue)
+    - Free academic plan with many features, claims unlimited storage. Pro and enterprise plans also available. Lab notebook, inventory system, ordering, message board. Free access to API even on free tier. Backup client for Windows & Mac, can do daily/weekly/monthly backups. Notebooks have extensive integration with protocols, equipment, inventory, can upload files directly to notebooks.
 
-# Literature Research & Citation Managers
+# Literature Research
   - [ResearchRabbit](https://www.researchrabbit.ai/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)
     - The website states it is "Free forever for researchers". Its purpose is to show you additional and related papers based on what you're currently reading. It provides the option for taking notes on papers, interactive visualization of all papers in your current collection, collaboration and more. Excellent tool for speeding up literature searches.
-  - [Zotero](https://www.zotero.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
-    - Zotero stores collections of papers and can retrieve most of them. It can integrate with [ResearchRabbit](https://www.researchrabbit.ai/). 
   - [Dimensions.ai](https://app.dimensions.ai/) ![](https://img.shields.io/badge/-Free%20%26%20Paid-orange) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Indexes over 100 million papers. Provides citation metrics, impact factors, associated authors, and more. Free to use for non-commercial purposes. 
   - [Semantic Scholar](https://www.semanticscholar.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)
     - An AI powered search engine indexing over 200 million papers. The key feature is that it provides an AI-generated TL:DR (too long:didn't read) summary for each article, longer than the title but more concise than the abstract.
   - [Elicit](https://elicit.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Requires sign-up. Deems itself the "AI research assistant". Aims to help automate parts of literature searching. Claims to provide summaries and extract key information. Also can help with brainstorming.
+
+# Citation Managers
+  - [Zotero](https://www.zotero.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
+      - Zotero stores collections of papers and can retrieve most of them. It can integrate with [ResearchRabbit](https://www.researchrabbit.ai/), Google Docs, Microsoft Word. Browser extensions and desktop apps available for essentially all systems. You can pay for additional cloud storage to sync PDFs, including your annotations and notes on them.
     
 # Experimental Design & Reproducibility
   - [Protocols.io](https://www.protocols.io) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-Proprietary-blue)
@@ -44,6 +48,8 @@ Acronyms:
   - [LabPlot](https://labplot.kde.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
     - LabPlot is a free, open source and cross-platform Data Visualization and Analysis software accessible to everyone. It can produce a wide variety of plots from spreadsheets or other imported data.
   - [BioRender](https://biorender.com/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
-    - Provides thousands of pre-made icons for creating figures to represent almost any kind of biological situation. It is only free for educational use, but paid if you want to use in a publication. 
+    - Provides thousands of pre-made icons for creating figures to represent almost any kind of biological situation. It is only free for educational use, but paid if you want to use in a publication.
+  - [Graphpad Prism](https://www.graphpad.com/scientific-software/prism/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
+    - Very popular statistics software. Easy to use interface and extensive documentation available, including training courses.
     
 # Non-Traditional Funding Sources

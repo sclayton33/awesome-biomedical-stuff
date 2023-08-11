@@ -51,5 +51,7 @@ Acronyms:
     - Provides thousands of pre-made icons for creating figures to represent almost any kind of biological situation. It is only free for educational use, but paid if you want to use in a publication.
   - [Graphpad Prism](https://www.graphpad.com/scientific-software/prism/) ![](https://img.shields.io/badge/-Paid-blue) ![](https://img.shields.io/badge/-Proprietary-blue)
     - Very popular statistics software. Easy to use interface and extensive documentation available, including training courses.
+  - [JASP](https://jasp-stats.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
+    - A relatively new statistics software that is intended to be easy to use and provide a comprehensive suite of tools. Covers both classical and Bayesian analyses.
     
 # Non-Traditional Funding Sources

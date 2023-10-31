@@ -54,4 +54,3 @@ Acronyms:
   - [JASP](https://jasp-stats.org/) ![](https://img.shields.io/badge/-Free-green) ![](https://img.shields.io/badge/-FOSS-green)
     - A relatively new statistics software that is intended to be easy to use and provide a comprehensive suite of tools. Covers both classical and Bayesian analyses.
     
-# Non-Traditional Funding Sources
